@@ -1,0 +1,69 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\C# 2015\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\C# 2015\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\C# 2015\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\C# 2015\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\C# 2015\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\C# 2015\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\C# 2015\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Murach\C# 2015\Student download\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Murach\C# 2015\Student download\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2015\Student download\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2015\Student download\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2015\Student download\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2015\Student download\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Murach\C# 2015\Student download\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Murach\C# 2015\Student download\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Murach\C# 2015\Student download\Exercise starts\Chapter 22\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\cecs\cecs475\labs\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\cecs\cecs475\labs\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\cecs\cecs475\labs\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+G:\computer science\applications in .net\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+G:\computer science\applications in .net\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+G:\computer science\applications in .net\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+G:\computer science\applications in .net\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+G:\computer science\applications in .net\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+G:\computer science\applications in .net\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+G:\computer science\applications in .net\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+G:\computer science\applications in .net\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+G:\computer science\applications in .net\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+G:\computer science\applications in .net\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+G:\computer science\applications in .net\Assignments\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+G:\computer science\applications in .net\Assignments\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+G:\computer science\applications in .net\Assignments\CustomerXML\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+G:\computer science\applications in .net\Assignments\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+G:\computer science\applications in .net\Assignments\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+G:\computer science\applications in .net\Assignments\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+G:\computer science\applications in .net\Assignments\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+G:\computer science\applications in .net\Assignments\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+G:\computer science\applications in .net\Assignments\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+G:\computer science\applications in .net\Assignments\CustomerXML\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
